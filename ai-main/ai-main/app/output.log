@@ -1,0 +1,18 @@
+nohup: ignoring input
+INFO:     Started server process [49770]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     93.114.98.144:55359 - "GET /docs HTTP/1.1" 200 OK
+INFO:     93.114.98.144:55359 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     93.114.98.144:54454 - "GET /docs HTTP/1.1" 200 OK
+INFO:     93.114.98.144:54454 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     93.114.98.144:54455 - "POST / HTTP/1.1" 200 OK
+INFO:     93.114.98.144:54848 - "GET /docs HTTP/1.1" 200 OK
+INFO:     93.114.98.144:54848 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     93.114.98.144:62576 - "GET /docs HTTP/1.1" 200 OK
+INFO:     93.114.98.144:62576 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     93.114.98.144:62575 - "POST / HTTP/1.1" 200 OK
+INFO:     188.227.8.170:2510 - "GET /docs HTTP/1.1" 200 OK
+INFO:     188.227.8.170:2510 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     89.111.169.253:59711 - "POST / HTTP/1.1" 200 OK
